@@ -13,4 +13,7 @@ The BridgingWorlds_POC_Threadbare is to be copied; the "value" variable is to ho
 
 Smart Dust
 ----------
-Here is the documentation for [Smart Dust multiple sensor assignment](https://vimeo.com/86409571).
+Here is the documentation for [Smart Dust multiple sensor assignment](https://vimeo.com/86409571) by [David Tracy](http://github.com/davidptracy).
+
+
+
