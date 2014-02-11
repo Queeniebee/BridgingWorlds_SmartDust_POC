@@ -9,3 +9,8 @@ Videos will be played on the monitors, each of which will be altered by an OpenG
 Processing Sketches
 -------------------
 The BridgingWorlds_POC_Threadbare is to be copied; the "value" variable is to hold of the sensor range values.
+
+
+Smart Dust
+----------
+Here is the documentation for [Smart Dust multiple sensor assignment](https://vimeo.com/86409571).
